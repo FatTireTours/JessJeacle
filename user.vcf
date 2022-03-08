@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Jeacle;Jessica;;;
+FN: Jessica  Jeacle 
+ORG:Fat Tire Tours;
+TITLE:Paris General Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:jess@fattiretours.com
+TEL;type=WORK;type=VOICE:+33.6.46.13.79.26
+item1.ADR;type=WORK;type=pref:;;24 rue Edgar Faure;;;75015;Paris, France
+item1.X-ABADR:sg
+item2.URL;type=pref:fattiretours.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
